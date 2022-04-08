@@ -104,7 +104,7 @@ function change2() {
     header1.innerHTML = "This was not real";
     header1.style.paddingLeft -= 10;
     header1.style.setProperty("grid-column-end", "11");
-    header2.innerHTML = "Check to make sure that sites are the real thing before putting in any personal information";
+    header2.innerHTML = "You fool!";
     header2.style.paddingLeft += 15;
     header2.style.setProperty("grid-column-end", "18");
     forgot.innerHTML = "Forgot password?";

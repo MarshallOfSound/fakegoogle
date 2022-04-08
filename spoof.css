@@ -32,8 +32,8 @@ body {
     vertical-align: middle;
     background-color: white;
     opacity: 1;
-    border: 1px lightgrey solid;
-    border-radius: 8px;
+    /* border: 1px lightgrey solid; */
+    /* border-radius: 8px; */
 }
 
 .grid-container {
